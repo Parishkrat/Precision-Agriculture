@@ -1,8 +1,10 @@
 # precision agriculture
 project
+
 Dashboard
 
-![image](https://user-images.githubusercontent.com/97585972/234701119-1be8fb80-349f-4f79-bc15-0c9132af64fb.png)
+![image](https://user-images.githubusercontent.com/97585972/234703067-51420c04-7f67-460b-a08e-0eb2da86e70b.png)
+
 
 Graph
 
