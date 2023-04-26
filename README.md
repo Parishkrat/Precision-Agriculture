@@ -1,5 +1,4 @@
-# precision agriculture
-project
+# Precision Agriculture
 
 Dashboard
 
