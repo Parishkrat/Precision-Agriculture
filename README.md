@@ -10,4 +10,5 @@ Graph
 
 Database
 
-![image](https://user-images.githubusercontent.com/97585972/234702194-787c97e7-66c3-4f2a-b88f-dadac1fc85d9.png)
+![image](https://user-images.githubusercontent.com/97585972/234702629-e257135d-fcd2-48dd-b454-252afdd12423.png)
+
